@@ -23,9 +23,9 @@
       :page_facing_up: <a href="#about-the-project">About The Project</a>
      </li>
      <li>
-       <a href="#built-with">Built With</a>
+      :hammer: <a href="#built-with">Built With</a>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    incoming_envelope:<li><a href="#contact">Contact</a></li>
 </div>
 
 

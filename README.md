@@ -21,13 +21,13 @@
 <div>
   <ul>
     <li>
-      :page_facing_up: <a href="#about-the-project">About The Project</a>
+     <a href="#about-the-project">About The Project</a>  :page_facing_up: 
      </li>
      <li>
-      :hammer: <a href="#built-with">Built With</a>
+     <a href="#built-with">Built With</a>  :hammer: 
     </li>
    <li>
-     :incoming_envelope: <a href="#contact">Contact</a>
+   <a href="#contact">Contact</a>   :incoming_envelope: 
   </li>
     </ul>
 </div>
@@ -35,7 +35,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## :page_facing_up: About The Project
+##  About The Project :page_facing_up:
 <p>
   <p>Pagina de buscador de peliculas basica con React Js y Api OMDb APi</p>
   <p>Tutorial Video: React JS Crash Course 2022 | Build an App and Master React in 1 Hour</p>
@@ -49,7 +49,7 @@
 
 
 
-## :hammer: Built With
+## Built With :hammer: 
 
 * [React.js](https://reactjs.org/)
 * [Nodejs](https://nodejs.org/)
@@ -59,7 +59,7 @@
 
 
 <!-- CONTACT -->
-## :incoming_envelope: Contact
+## Contact :incoming_envelope: 
 
 email@email_client.com
 Project Link: [https://github.com/kepaperez/Movieland/](https://github.com/kepaperez/Movieland/)

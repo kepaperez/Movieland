@@ -62,7 +62,7 @@
 ## :incoming_envelope: Contact
 
 email@email_client.com
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/kepaperez/Movieland/](https://github.com/kepaperez/Movieland/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

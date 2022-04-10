@@ -37,8 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## :page_facing_up: About The Project
 <p>
-  Pagina de buscador de peliculas basica con React Js y Api OMDb APi
-  Tutorial Video: React JS Crash Course 2022 | Build an App and Master React in 1 Hour
+  <p>Pagina de buscador de peliculas basica con React Js y Api OMDb APi</p>
+  <p>Tutorial Video: React JS Crash Course 2022 | Build an App and Master React in 1 Hour</p>
 </p>
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 

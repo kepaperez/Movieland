@@ -10,7 +10,7 @@
 <h3 align="center">MOVIELAND</h3>
 
   <p align="center">
-   Pagina de buscador de peliculas basica con React Js y Api OMDb APi
+   Pagina de buscador de peliculas basica con React Js 
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
@@ -51,14 +51,9 @@
 
 ## :hammer: Built With
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Nodejs](https://nodejs.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

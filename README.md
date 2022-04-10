@@ -25,13 +25,15 @@
      <li>
       :hammer: <a href="#built-with">Built With</a>
     </li>
-    :incoming_envelope:<li><a href="#contact">Contact</a></li>
+   <li>
+     :incoming_envelope: <a href="#contact">Contact</a>
+  </li>
 </div>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :page_facing_up: About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -41,7 +43,7 @@
 
 
 
-### Built With
+### :hammer: Built With
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -56,7 +58,7 @@
 
 
 <!-- CONTACT -->
-## Contact
+## :incoming_envelope: Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 

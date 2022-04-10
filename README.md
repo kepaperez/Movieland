@@ -24,10 +24,10 @@
      <a href="#about-the-project">About The Project</a>:sparkles:
      </li>
      <li>
-     <a href="#built-with">Built With</a>  :hammer: 
+     <a href="#built-with-hammer">Built With</a>  :hammer: 
     </li>
    <li>
-   <a href="#contact">Contact</a>   :incoming_envelope: 
+   <a href="#contact-incoming_envelope">Contact</a>   :incoming_envelope: 
   </li>
     </ul>
 </div>

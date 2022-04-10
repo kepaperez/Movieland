@@ -19,6 +19,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <div>
+  <ul>
     <li>
       :page_facing_up: <a href="#about-the-project">About The Project</a>
      </li>
@@ -28,6 +29,7 @@
    <li>
      :incoming_envelope: <a href="#contact">Contact</a>
   </li>
+    </ul>
 </div>
 
 

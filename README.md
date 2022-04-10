@@ -21,7 +21,7 @@
 <div>
   <ul>
     <li>
-     <a href="#about-the-project">About The Project</a>  :page_facing_up: 
+     <a href="#about-the-project">About The Project</a>:sparkles:
      </li>
      <li>
      <a href="#built-with">Built With</a>  :hammer: 
@@ -35,7 +35,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-##  About The Project :page_facing_up:
+##  About The Project :sparkles:
 <p>
   <p>Pagina de buscador de peliculas basica con React Js y Api OMDb APi</p>
   <p>Tutorial Video: React JS Crash Course 2022 | Build an App and Master React in 1 Hour</p>

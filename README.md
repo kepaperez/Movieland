@@ -20,7 +20,7 @@
 <!-- TABLE OF CONTENTS -->
 <div>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      :page_facing_up: <a href="#about-the-project">About The Project</a>
      </li>
      <li>
        <a href="#built-with">Built With</a>

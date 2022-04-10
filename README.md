@@ -12,9 +12,6 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
 </div>
@@ -22,8 +19,6 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -32,7 +27,6 @@
     </li>
     </li>
     <li><a href="#contact">Contact</a></li>
-  </ol>
 </details>
 
 

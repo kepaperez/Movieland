@@ -25,7 +25,7 @@
      <li>
       :hammer: <a href="#built-with">Built With</a>
     </li>
-    incoming_envelope:<li><a href="#contact">Contact</a></li>
+    :incoming_envelope:<li><a href="#contact">Contact</a></li>
 </div>
 
 
